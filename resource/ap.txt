@@ -1,0 +1,7 @@
+0 yellow
+1 yellow
+2 yellow
+3 red
+4 red
+8 yellow
+9 yellow
